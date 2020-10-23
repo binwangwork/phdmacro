@@ -12,5 +12,5 @@ This is the course page of PhD level advanced macroeconomics. I will update this
 
 3. 10.13. We learned the two-period model with consumption-saving tradeoff. We showed the competative equilibrium and social optimum of this model. You should know what the key consumption-tradeoff is, namely what the Euler equation bears and what the **Ricardian equivalence** is.
 
-4. 10.20. Please download the lecture notes of [Chapter 2](https://github.com/binwangwork/phdmacro/blob/gh/chapter%202.pdf). [Answer of Problem Set 1](https://github.com/binwangwork/phdmacro/blob/gh/PS1%20answer.pdf) is posted.
+4. 10.20. Please download the lecture notes of [Chapter 2](https://github.com/binwangwork/phdmacro/blob/gh/chapter%202.pdf). [Answer of Problem Set 1](https://github.com/binwangwork/phdmacro/blob/gh/PS1%20answer.pdf) is posted. We learned a finite-horizon optimal growth model. We showed why Euler equation and "transversality condition" are both sufficient and neccesary for the solution. We numerically solved this model by Matlab. You can also watch the recorded videos on bilibili: [part 1](https://www.bilibili.com/video/BV1ka411A7fV), [part 2](https://www.bilibili.com/video/BV16K4y177kC), [part 3](https://www.bilibili.com/video/BV1wi4y177Rr),[part 4](https://www.bilibili.com/video/BV1ft4y1Y7FD).
 
