@@ -16,3 +16,5 @@ This is the course page of PhD level advanced macroeconomics. I will update this
 
 4. 10.20. Please download the lecture notes of [Chapter 2](https://github.com/binwangwork/phdmacro/blob/gh/chapter%202.pdf). [Answer of Problem Set 1](https://github.com/binwangwork/phdmacro/blob/gh/PS1%20answer.pdf) is posted. We learned a finite-horizon optimal growth model. We showed why Euler equation and "transversality condition" are both sufficient and neccesary for the solution. We numerically solved this model by Matlab. You can also watch the recorded videos on bilibili: [part 1](https://www.bilibili.com/video/BV1ka411A7fV), [part 2](https://www.bilibili.com/video/BV16K4y177kC), [part 3](https://www.bilibili.com/video/BV1wi4y177Rr),[part 4](https://www.bilibili.com/video/BV1ft4y1Y7FD).
 
+5. 10.27. We introduced dynamic programming to solve a infinite-horizon dynamic model. You can watch the recorded videos on bilibili: [part 1](https://www.bilibili.com/video/BV1ka411A7fV), [part 2](https://www.bilibili.com/video/BV16K4y177kC), [part 3](https://www.bilibili.com/video/BV1wi4y177Rr),[part 4](https://www.bilibili.com/video/BV1ft4y1Y7FD).
+
