@@ -20,3 +20,11 @@ This is the course page of PhD level advanced macroeconomics. I will update this
 
 6. 11.03. We continued to discuss dynamic programming. We proved why the solution of sequence problem is the same as that of functional equation. We deduced the Euler euqation and transversality condition for the solution of Bellman equation. We proved why these two conditions are both sufficient and neccessary for the solution of dynamic programming. You can watch the recorded videos on bilibili: [part 1](https://www.bilibili.com/video/BV16v41167r1), [part 2](https://www.bilibili.com/video/BV1az4y1o7Mz), [part 3](https://www.bilibili.com/video/BV1LZ4y1V7rV),[part 4](https://www.bilibili.com/video/BV1Gy4y1k7Di).
 
+7. 11.10. We introduced stochastic version of dynamic programming. Then we learned the general form of dynamic programming. You can watch the recorded videos on bilibili: [part 1](https://www.bilibili.com/video/BV1nV411a7cU), [part 2](https://www.bilibili.com/video/BV1w5411G7Jc), [part 3](https://www.bilibili.com/video/BV1w5411G7Jc),[part 4](https://www.bilibili.com/video/BV1mA411x73Q).
+
+8. 11.17. We rectified one mistake in last lecture. Then we introduced the Neoclassical growth model. You can watch the recorded videos on bilibili: [part 1](https://www.bilibili.com/video/BV1yv411t7FR).
+
+9. 11.24. We provided more examples of dynamic programming such as Ramsey model with human and technology growth, Lucas tree model, and habit formation. You can watch the recorded videos on bilibili: [part 1](https://www.bilibili.com/video/BV1Qt4y1a7fT), [part 2](https://www.bilibili.com/video/BV1zr4y1c7jk), [part 3](https://www.bilibili.com/video/BV1Ya411w7xn).
+
+10. 11.30. We started to learn how to solve the dynamic programming probelm by numerical method. Today we learned value function iteration and policy function iteration using the optimal growth model as the example.
+
