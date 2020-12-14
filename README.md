@@ -7,6 +7,7 @@ This is the course page of PhD level advanced macroeconomics. I will update this
 **[Problem Set 1](https://github.com/binwangwork/phdmacro/blob/gh/PS1.pdf)**, Due date: 2020.10.21，[Answer](https://github.com/binwangwork/phdmacro/blob/gh/PS1%20answer.pdf)
 
 **[Problem Set 2](https://github.com/binwangwork/phdmacro/blob/gh/PS2.pdf)**, Due date: 2020.11.10，
+**[Midterm Exam Answer](https://github.com/binwangwork/phdmacro/blob/gh/midterm%20answer.pdf)
 
 1. 9.29. We introduced the [syllabus](https://github.com/binwangwork/phdmacro/blob/gh/syllabus.pdf) of this course and learned some prerequisites of modern macroeconomics. Please download the lecture notes of [Chapter 1](https://github.com/binwangwork/phdmacro/blob/gh/chapter%201.pdf). In this lecture, we learned why to take logarithm to the time series data and studied how to build the **Hodrick-Prescott filter**. We introduced the representative consumer's problem and related preference, utility function, indifference curve, marginal rate of substitution. We learned why the conditions that the partial derivatives of the Lagrangian function are zero are neccesary to the optimal solution of the optimization problem with equality constraint. You should also learn how to do comparative statics with **implicit function theorem**. Additionally, we proved the **envelope theorem** and its economic intuition. [Problem Set 1](https://github.com/binwangwork/phdmacro/blob/gh/PS1.pdf) is posted.
 
@@ -26,5 +27,9 @@ This is the course page of PhD level advanced macroeconomics. I will update this
 
 9. 11.24. We provided more examples of dynamic programming such as Ramsey model with human and technology growth, Lucas tree model, and habit formation. You can watch the recorded videos on bilibili: [part 1](https://www.bilibili.com/video/BV1Qt4y1a7fT), [part 2](https://www.bilibili.com/video/BV1zr4y1c7jk), [part 3](https://www.bilibili.com/video/BV1Ya411w7xn).
 
-10. 11.30. We started to learn how to solve the dynamic programming probelm by numerical method. Today we learned value function iteration and policy function iteration using the optimal growth model as the example.
+10. 11.30. We continued to learn more examples. At last, we show that we can derive the first order conditions by directly apply the Lagrangian multiplier method quickly intead of refering to dynamic programming for DSGE models.
+
+11. 12.1. We started to learn how to solve the dynamic programming probelm by numerical method. Today we learned value function iteration and policy function iteration using the optimal growth model as the example.
+
+12. 12.8. We learned local method to solve the DSGE models, the first-order perturbation method. We introduced log-linearization to lineariza the first order conditions of DSGE models. We learned Blanchard and Kahn's method and Sims' method to get local solution.
 
